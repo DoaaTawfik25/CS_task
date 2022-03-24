@@ -16,7 +16,7 @@ int main(void)
    coins++;
    }
     while(cents>=10)
-   {
+}
    cents-=10;
    coins++;
 }
